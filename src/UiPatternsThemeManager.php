@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\ui_patterns_settings;
+namespace Drupal\ui_patterns_theme;
 
 use Drupal\Component\Plugin\Factory\DefaultFactory;
 use Drupal\Component\Plugin\PluginManagerInterface;
@@ -12,7 +12,7 @@ use Drupal\Core\StringTranslation\StringTranslationTrait;
 /**
  * Provides the UI Patterns Settings plugin manager.
  */
-class UiPatternsSettingsManager extends DefaultPluginManager implements PluginManagerInterface {
+class UiPatternsThemeManager {
 
   use StringTranslationTrait;
 

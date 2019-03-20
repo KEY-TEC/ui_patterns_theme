@@ -1,2 +1,2 @@
-# UI Patterns Settings
+# UI Patterns Theme
 

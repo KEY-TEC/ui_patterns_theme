@@ -1,0 +1,4 @@
+services:
+  plugin.manager.ui_patterns_theme:
+    class: Drupal\ui_patterns_theme\UiPatternsThemeManager
+    arguments: ['@container.namespaces', '@module_handler', '@cache.discovery']

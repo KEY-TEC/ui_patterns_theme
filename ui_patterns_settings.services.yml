@@ -1,4 +1,0 @@
-services:
-  plugin.manager.ui_patterns_settings:
-    class: Drupal\ui_patterns_settings\UiPatternsSettingsManager
-    arguments: ['@container.namespaces', '@module_handler', '@cache.discovery']

@@ -1,7 +1,7 @@
 {
-  "name": "drupal/ui_patterns_settings",
+  "name": "drupal/ui_patterns_theme",
   "type": "drupal-module",
-  "description": "UI Patterns Settings.",
+  "description": "UI Patterns Theme.",
   "keywords": ["drupal", "web", "ui"],
   "license": "GPL-2.0+",
   "minimum-stability": "dev",
@@ -10,6 +10,10 @@
     {
       "name": "Christian Wiedemann",
       "email": "christian.wiedemann@key-tec.de"
+    },
+    {
+      "name": "David Stangl",
+      "email": "david.stangl@key-tec.de"
     }
   ],
   "require-dev": {

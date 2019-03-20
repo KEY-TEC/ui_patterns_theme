@@ -1,6 +1,6 @@
-name: UI Patterns Settings
+name: UI Patterns Theme
 type: module
-description: Configure patterns with settings
+description: Configure patterns with theme settings
 core: 8.x
 package: User interface
 dependencies:
